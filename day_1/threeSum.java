@@ -32,5 +32,9 @@ public class threeSum {
         return new ArrayList<>(result);
       }
     }
+    public static void main(String[] args) {
+        int arr[]={-1,0,1,2,-1,-4};
+        System.out.println("Triplets are: "+ threeSum(arr));
+    }
      
 }

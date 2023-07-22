@@ -23,4 +23,5 @@ public class palindromicArrayConversion {
         int arr[]={19,4,5,1};
         System.out.println("Total number of operations is: "+ findOps(arr,arr.length));
     }
+    
 }
