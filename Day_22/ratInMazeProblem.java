@@ -1,43 +1,45 @@
 public class ratInMazeProblem {
 
-    public void printSolution(int [][]arr,int n){
+    public boolean isSafe(int [][]maze, int x, int y, int n){
+        if(x>=0 && x<n && y>=0 && y<n && maze[x][y]==1){
+            return true;
+        }
+        return false;
+    }
+        
+    public boolean solveMaze(int [][]maze, int [][]output, int x, int y, int n){
+        if(x==n-1 && y==n-1){
+            output[x][y]=1;
+            return true;
+        }
+        if(isSafe(maze, x, y, n)){
+            output[x][y]=1;
+            if(solveMaze(maze, output, x+1, y, n)){
+                return true;
+            }
+            if(solveMaze(maze, output, x, y+1, n)){
+                return true;
+            }
+            output[x][y]=0;
+            return false;
+        }
+        return false;
+    }
+
+    public void printSolution(int [][]output, int n){
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                System.out.print(arr[i][j]+" ");
-            }System.out.println();
-        }
-    }
-
-    public boolean isSafe(int[][] maze,int i,int j,int n){
-        if(i>=0 && n>i && j>=0 && j<n && maze[i][j]==1){
-            return true;
-        }else{
-            return false;
-        }
-    }
-
-    public boolean solveMaze(int [][]maze,int[][] output,int i,int j,int n){
-        //Base case
-        if(i==n-1 && j==n-1 && maze[i][j]==1){
-            output[i][j]=1;
-            return true;
-        }
-
-        //Recursive calls
-        if(isSafe(maze, i, j, n)==true){
-            if(output[i][j]==1){
-                return false;
+                System.out.print(output[i][j]+" ");
             }
-            output[i][j]=1;
+            System.out.println();
         }
-
-        //right direction
-        if(solveMaze(maze, output, i, j, n)==true){
-            return false;
-        }
-
-        //backtrack
-        output[i][j]=0;
-        return false;
+    }
+    public static void main(String[] args) {
+        int [][]maze={{1,1,0},{1,1,0},{0,1,1}};
+        int n=maze.length;
+        int [][]output=new int[n][n];
+        ratInMazeProblem obj=new ratInMazeProblem();
+        obj.solveMaze(maze, output, 0, 0, n);
+        obj.printSolution(output, n);
     }
 }
