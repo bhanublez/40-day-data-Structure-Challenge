@@ -4,697 +4,704 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "longestPalindromicSubstring",
-            "request": "launch",
-            "mainClass": "longestPalindromicSubstring",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "AVLtree",
-            "request": "launch",
-            "mainClass": "AVLtree",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "ClimbingStair",
-            "request": "launch",
-            "mainClass": "ClimbingStair",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "containDuplicate",
-            "request": "launch",
-            "mainClass": "Day_20.containDuplicate",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "intersectionOfTwoArray",
-            "request": "launch",
-            "mainClass": "Day_20.intersectionOfTwoArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "letterCompination",
-            "request": "launch",
-            "mainClass": "Day_20.letterCompination",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "noOfValidSubArray",
-            "request": "launch",
-            "mainClass": "Day_20.noOfValidSubArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "printMinNumberForPattern",
-            "request": "launch",
-            "mainClass": "Day_20.printMinNumberForPattern",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "KSmallestElementInArray",
-            "request": "launch",
-            "mainClass": "KSmallestElementInArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "KthLargestElement",
-            "request": "launch",
-            "mainClass": "KthLargestElement",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "MissingNumber",
-            "request": "launch",
-            "mainClass": "MissingNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "NumberOfIsland",
-            "request": "launch",
-            "mainClass": "NumberOfIsland",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "largetElmentByMerging",
-            "request": "launch",
-            "mainClass": "Prac.largetElmentByMerging",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "splitScreenBySeprator",
-            "request": "launch",
-            "mainClass": "Prac.splitScreenBySeprator",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "Sorting",
-            "request": "launch",
-            "mainClass": "Sorting",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "UniqueRearrangeSort",
-            "request": "launch",
-            "mainClass": "UniqueRearrangeSort",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "ZigZagLinkedList",
-            "request": "launch",
-            "mainClass": "ZigZagLinkedList",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "addBinary",
-            "request": "launch",
-            "mainClass": "addBinary",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "addDigit",
-            "request": "launch",
-            "mainClass": "addDigit",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "basicCalculatorII",
-            "request": "launch",
-            "mainClass": "basicCalculatorII",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "bestTimeToBuyAndSellStockII",
-            "request": "launch",
-            "mainClass": "bestTimeToBuyAndSellStockII",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "canPlaceFlower",
-            "request": "launch",
-            "mainClass": "canPlaceFlower",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "chocolateDistributionProblem",
-            "request": "launch",
-            "mainClass": "chocolateDistributionProblem",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "containerWithMostWater",
-            "request": "launch",
-            "mainClass": "containerWithMostWater",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "containsDuplicate",
-            "request": "launch",
-            "mainClass": "containsDuplicate",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "bestTimeToBuyAndSellStock",
-            "request": "launch",
-            "mainClass": "day_1.bestTimeToBuyAndSellStock",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findDublicateNumber",
-            "request": "launch",
-            "mainClass": "day_1.findDublicateNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findMissingAndRepeatingNumber",
-            "request": "launch",
-            "mainClass": "day_1.findMissingAndRepeatingNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findingMiddleterm",
-            "request": "launch",
-            "mainClass": "day_1.findingMiddleterm",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "majorityElement",
-            "request": "launch",
-            "mainClass": "day_1.majorityElement",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "maximumProductSubArray",
-            "request": "launch",
-            "mainClass": "day_1.maximumProductSubArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "palindromicArrayConversion",
-            "request": "launch",
-            "mainClass": "day_1.palindromicArrayConversion",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "threeSum",
-            "request": "launch",
-            "mainClass": "day_1.threeSum",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "VisitArrayPostionToMaximzeScore",
-            "request": "launch",
-            "mainClass": "extra_incorrect_most.VisitArrayPostionToMaximzeScore",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "checkIfArrayIsGood",
-            "request": "launch",
-            "mainClass": "extra_incorrect_most.checkIfArrayIsGood",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "sortVowelsInString",
-            "request": "launch",
-            "mainClass": "extra_incorrect_most.sortVowelsInString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "wayToExpressIntegerAsPowerOfSum",
-            "request": "launch",
-            "mainClass": "extra_incorrect_most.wayToExpressIntegerAsPowerOfSum",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "fibonacci",
-            "request": "launch",
-            "mainClass": "fibonacci",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findAllDuplicateInArray",
-            "request": "launch",
-            "mainClass": "findAllDuplicateInArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findTheDuplicateNumber",
-            "request": "launch",
-            "mainClass": "findTheDuplicateNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "findingTheIndexOfFirstOcu",
-            "request": "launch",
-            "mainClass": "findingTheIndexOfFirstOcu",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "flipBitToWin",
-            "request": "launch",
-            "mainClass": "flipBitToWin",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "flippingAnImage",
-            "request": "launch",
-            "mainClass": "flippingAnImage",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "floodFill",
-            "request": "launch",
-            "mainClass": "floodFill",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "fourSum",
-            "request": "launch",
-            "mainClass": "fourSum",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "generateParantheses",
-            "request": "launch",
-            "mainClass": "generateParantheses",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "happyNumber",
-            "request": "launch",
-            "mainClass": "happyNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "integerToRomain",
-            "request": "launch",
-            "mainClass": "integerToRomain",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "lengthOfLastWord",
-            "request": "launch",
-            "mainClass": "lengthOfLastWord",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "longestCommonPrefix",
-            "request": "launch",
-            "mainClass": "longestCommonPrefix",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "longestSubStringWithoutReaptingCharacter",
-            "request": "launch",
-            "mainClass": "longestSubStringWithoutReaptingCharacter",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "matrixDiagonalSum",
-            "request": "launch",
-            "mainClass": "matrixDiagonalSum",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "maximumPointsYouCanObtainFromCard",
-            "request": "launch",
-            "mainClass": "maximumPointsYouCanObtainFromCard",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "maximumProduct",
-            "request": "launch",
-            "mainClass": "maximumProduct",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "maximumProductOfThreeNumber",
-            "request": "launch",
-            "mainClass": "maximumProductOfThreeNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "maximumSubArray",
-            "request": "launch",
-            "mainClass": "maximumSubArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "mergeInterval",
-            "request": "launch",
-            "mainClass": "mergeInterval",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "mergeSortedArray",
-            "request": "launch",
-            "mainClass": "mergeSortedArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "minMove",
-            "request": "launch",
-            "mainClass": "minMove",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "minMove2",
-            "request": "launch",
-            "mainClass": "minMove2",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "missingNumber",
-            "request": "launch",
-            "mainClass": "missingNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "monotonicArray",
-            "request": "launch",
-            "mainClass": "monotonicArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "moveZeroes",
-            "request": "launch",
-            "mainClass": "moveZeroes",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "palindromeNumber",
-            "request": "launch",
-            "mainClass": "palindromeNumber",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "plusOne",
-            "request": "launch",
-            "mainClass": "plusOne",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "pow",
-            "request": "launch",
-            "mainClass": "pow",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "powerOfTwo",
-            "request": "launch",
-            "mainClass": "powerOfTwo",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "reverseAString",
-            "request": "launch",
-            "mainClass": "prac.reverseAString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "printAllTheDuplicateInInputString",
-            "request": "launch",
-            "mainClass": "printAllTheDuplicateInInputString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "productOfArrayExceptSelf",
-            "request": "launch",
-            "mainClass": "productOfArrayExceptSelf",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "removeDuplicateFromSortedArray",
-            "request": "launch",
-            "mainClass": "removeDuplicateFromSortedArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "replaceOwithX",
-            "request": "launch",
-            "mainClass": "replaceOwithX",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "reverseInteger",
-            "request": "launch",
-            "mainClass": "reverseInteger",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "reverseString",
-            "request": "launch",
-            "mainClass": "reverseString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "reverseVowelsOfString",
-            "request": "launch",
-            "mainClass": "reverseVowelsOfString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "reverseWordInString",
-            "request": "launch",
-            "mainClass": "reverseWordInString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "rotateArray",
-            "request": "launch",
-            "mainClass": "rotateArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "rotateImage",
-            "request": "launch",
-            "mainClass": "rotateImage",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "round",
-            "request": "launch",
-            "mainClass": "round",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "searchA2DMatrix",
-            "request": "launch",
-            "mainClass": "searchA2DMatrix",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "searchInsert",
-            "request": "launch",
-            "mainClass": "searchInsert",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "searchPostion",
-            "request": "launch",
-            "mainClass": "searchPostion",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "setMatrixZero",
-            "request": "launch",
-            "mainClass": "setMatrixZero",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "setMismatch",
-            "request": "launch",
-            "mainClass": "setMismatch",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "smallestRange",
-            "request": "launch",
-            "mainClass": "smallestRange",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "smallestWindow",
-            "request": "launch",
-            "mainClass": "smallestWindow",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "sortAnArray",
-            "request": "launch",
-            "mainClass": "sortAnArray",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "sortColor",
-            "request": "launch",
-            "mainClass": "sortColor",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "spiralMatrix",
-            "request": "launch",
-            "mainClass": "spiralMatrix",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "splitAStringInBalanceString",
-            "request": "launch",
-            "mainClass": "splitAStringInBalanceString",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "sqrtx",
-            "request": "launch",
-            "mainClass": "sqrtx",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "subArraySumDivisibleByK",
-            "request": "launch",
-            "mainClass": "subArraySumDivisibleByK",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "subArraySumEqualToK",
-            "request": "launch",
-            "mainClass": "subArraySumEqualToK",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "sumList",
-            "request": "launch",
-            "mainClass": "sumList",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "theKthFactorOfN",
-            "request": "launch",
-            "mainClass": "theKthFactorOfN",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "transposeOfMatrix",
-            "request": "launch",
-            "mainClass": "transposeOfMatrix",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "twoSum",
-            "request": "launch",
-            "mainClass": "twoSum",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        },
-        {
-            "type": "java",
-            "name": "validPalindrome",
-            "request": "launch",
-            "mainClass": "validPalindrome",
-            "projectName": "40 day data Structure Challenge_8a108abc"
-        }
+      {
+        "type": "java",
+        "name": "bestTimeToBuyAndSellStiock",
+        "request": "launch",
+        "mainClass": "random_already_solved_50questionChallengeInOneDay.bestTimeToBuyAndSellStiock",
+        "projectName": "40 day data Structure Challenge_37d13459"
+      },
+      {
+        "type": "java",
+        "name": "longestPalindromicSubstring",
+        "request": "launch",
+        "mainClass": "longestPalindromicSubstring",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "Current File",
+        "request": "launch",
+        "mainClass": "${file}"
+      },
+      {
+        "type": "java",
+        "name": "AVLtree",
+        "request": "launch",
+        "mainClass": "AVLtree",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "ClimbingStair",
+        "request": "launch",
+        "mainClass": "ClimbingStair",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "containDuplicate",
+        "request": "launch",
+        "mainClass": "Day_20.containDuplicate",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "intersectionOfTwoArray",
+        "request": "launch",
+        "mainClass": "Day_20.intersectionOfTwoArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "letterCompination",
+        "request": "launch",
+        "mainClass": "Day_20.letterCompination",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "noOfValidSubArray",
+        "request": "launch",
+        "mainClass": "Day_20.noOfValidSubArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "printMinNumberForPattern",
+        "request": "launch",
+        "mainClass": "Day_20.printMinNumberForPattern",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "KSmallestElementInArray",
+        "request": "launch",
+        "mainClass": "KSmallestElementInArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "KthLargestElement",
+        "request": "launch",
+        "mainClass": "KthLargestElement",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "MissingNumber",
+        "request": "launch",
+        "mainClass": "MissingNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "NumberOfIsland",
+        "request": "launch",
+        "mainClass": "NumberOfIsland",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "largetElmentByMerging",
+        "request": "launch",
+        "mainClass": "Prac.largetElmentByMerging",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "splitScreenBySeprator",
+        "request": "launch",
+        "mainClass": "Prac.splitScreenBySeprator",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "Sorting",
+        "request": "launch",
+        "mainClass": "Sorting",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "UniqueRearrangeSort",
+        "request": "launch",
+        "mainClass": "UniqueRearrangeSort",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "ZigZagLinkedList",
+        "request": "launch",
+        "mainClass": "ZigZagLinkedList",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "addBinary",
+        "request": "launch",
+        "mainClass": "addBinary",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "addDigit",
+        "request": "launch",
+        "mainClass": "addDigit",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "basicCalculatorII",
+        "request": "launch",
+        "mainClass": "basicCalculatorII",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "bestTimeToBuyAndSellStockII",
+        "request": "launch",
+        "mainClass": "bestTimeToBuyAndSellStockII",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "canPlaceFlower",
+        "request": "launch",
+        "mainClass": "canPlaceFlower",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "chocolateDistributionProblem",
+        "request": "launch",
+        "mainClass": "chocolateDistributionProblem",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "containerWithMostWater",
+        "request": "launch",
+        "mainClass": "containerWithMostWater",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "containsDuplicate",
+        "request": "launch",
+        "mainClass": "containsDuplicate",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "bestTimeToBuyAndSellStock",
+        "request": "launch",
+        "mainClass": "day_1.bestTimeToBuyAndSellStock",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findDublicateNumber",
+        "request": "launch",
+        "mainClass": "day_1.findDublicateNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findMissingAndRepeatingNumber",
+        "request": "launch",
+        "mainClass": "day_1.findMissingAndRepeatingNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findingMiddleterm",
+        "request": "launch",
+        "mainClass": "day_1.findingMiddleterm",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "majorityElement",
+        "request": "launch",
+        "mainClass": "day_1.majorityElement",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "maximumProductSubArray",
+        "request": "launch",
+        "mainClass": "day_1.maximumProductSubArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "palindromicArrayConversion",
+        "request": "launch",
+        "mainClass": "day_1.palindromicArrayConversion",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "threeSum",
+        "request": "launch",
+        "mainClass": "day_1.threeSum",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "VisitArrayPostionToMaximzeScore",
+        "request": "launch",
+        "mainClass": "extra_incorrect_most.VisitArrayPostionToMaximzeScore",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "checkIfArrayIsGood",
+        "request": "launch",
+        "mainClass": "extra_incorrect_most.checkIfArrayIsGood",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "sortVowelsInString",
+        "request": "launch",
+        "mainClass": "extra_incorrect_most.sortVowelsInString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "wayToExpressIntegerAsPowerOfSum",
+        "request": "launch",
+        "mainClass": "extra_incorrect_most.wayToExpressIntegerAsPowerOfSum",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "fibonacci",
+        "request": "launch",
+        "mainClass": "fibonacci",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findAllDuplicateInArray",
+        "request": "launch",
+        "mainClass": "findAllDuplicateInArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findTheDuplicateNumber",
+        "request": "launch",
+        "mainClass": "findTheDuplicateNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "findingTheIndexOfFirstOcu",
+        "request": "launch",
+        "mainClass": "findingTheIndexOfFirstOcu",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "flipBitToWin",
+        "request": "launch",
+        "mainClass": "flipBitToWin",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "flippingAnImage",
+        "request": "launch",
+        "mainClass": "flippingAnImage",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "floodFill",
+        "request": "launch",
+        "mainClass": "floodFill",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "fourSum",
+        "request": "launch",
+        "mainClass": "fourSum",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "generateParantheses",
+        "request": "launch",
+        "mainClass": "generateParantheses",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "happyNumber",
+        "request": "launch",
+        "mainClass": "happyNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "integerToRomain",
+        "request": "launch",
+        "mainClass": "integerToRomain",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "lengthOfLastWord",
+        "request": "launch",
+        "mainClass": "lengthOfLastWord",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "longestCommonPrefix",
+        "request": "launch",
+        "mainClass": "longestCommonPrefix",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "longestSubStringWithoutReaptingCharacter",
+        "request": "launch",
+        "mainClass": "longestSubStringWithoutReaptingCharacter",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "matrixDiagonalSum",
+        "request": "launch",
+        "mainClass": "matrixDiagonalSum",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "maximumPointsYouCanObtainFromCard",
+        "request": "launch",
+        "mainClass": "maximumPointsYouCanObtainFromCard",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "maximumProduct",
+        "request": "launch",
+        "mainClass": "maximumProduct",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "maximumProductOfThreeNumber",
+        "request": "launch",
+        "mainClass": "maximumProductOfThreeNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "maximumSubArray",
+        "request": "launch",
+        "mainClass": "maximumSubArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "mergeInterval",
+        "request": "launch",
+        "mainClass": "mergeInterval",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "mergeSortedArray",
+        "request": "launch",
+        "mainClass": "mergeSortedArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "minMove",
+        "request": "launch",
+        "mainClass": "minMove",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "minMove2",
+        "request": "launch",
+        "mainClass": "minMove2",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "missingNumber",
+        "request": "launch",
+        "mainClass": "missingNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "monotonicArray",
+        "request": "launch",
+        "mainClass": "monotonicArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "moveZeroes",
+        "request": "launch",
+        "mainClass": "moveZeroes",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "palindromeNumber",
+        "request": "launch",
+        "mainClass": "palindromeNumber",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "plusOne",
+        "request": "launch",
+        "mainClass": "plusOne",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "pow",
+        "request": "launch",
+        "mainClass": "pow",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "powerOfTwo",
+        "request": "launch",
+        "mainClass": "powerOfTwo",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "reverseAString",
+        "request": "launch",
+        "mainClass": "prac.reverseAString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "printAllTheDuplicateInInputString",
+        "request": "launch",
+        "mainClass": "printAllTheDuplicateInInputString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "productOfArrayExceptSelf",
+        "request": "launch",
+        "mainClass": "productOfArrayExceptSelf",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "removeDuplicateFromSortedArray",
+        "request": "launch",
+        "mainClass": "removeDuplicateFromSortedArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "replaceOwithX",
+        "request": "launch",
+        "mainClass": "replaceOwithX",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "reverseInteger",
+        "request": "launch",
+        "mainClass": "reverseInteger",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "reverseString",
+        "request": "launch",
+        "mainClass": "reverseString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "reverseVowelsOfString",
+        "request": "launch",
+        "mainClass": "reverseVowelsOfString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "reverseWordInString",
+        "request": "launch",
+        "mainClass": "reverseWordInString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "rotateArray",
+        "request": "launch",
+        "mainClass": "rotateArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "rotateImage",
+        "request": "launch",
+        "mainClass": "rotateImage",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "round",
+        "request": "launch",
+        "mainClass": "round",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "searchA2DMatrix",
+        "request": "launch",
+        "mainClass": "searchA2DMatrix",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "searchInsert",
+        "request": "launch",
+        "mainClass": "searchInsert",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "searchPostion",
+        "request": "launch",
+        "mainClass": "searchPostion",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "setMatrixZero",
+        "request": "launch",
+        "mainClass": "setMatrixZero",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "setMismatch",
+        "request": "launch",
+        "mainClass": "setMismatch",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "smallestRange",
+        "request": "launch",
+        "mainClass": "smallestRange",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "smallestWindow",
+        "request": "launch",
+        "mainClass": "smallestWindow",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "sortAnArray",
+        "request": "launch",
+        "mainClass": "sortAnArray",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "sortColor",
+        "request": "launch",
+        "mainClass": "sortColor",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "spiralMatrix",
+        "request": "launch",
+        "mainClass": "spiralMatrix",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "splitAStringInBalanceString",
+        "request": "launch",
+        "mainClass": "splitAStringInBalanceString",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "sqrtx",
+        "request": "launch",
+        "mainClass": "sqrtx",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "subArraySumDivisibleByK",
+        "request": "launch",
+        "mainClass": "subArraySumDivisibleByK",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "subArraySumEqualToK",
+        "request": "launch",
+        "mainClass": "subArraySumEqualToK",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "sumList",
+        "request": "launch",
+        "mainClass": "sumList",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "theKthFactorOfN",
+        "request": "launch",
+        "mainClass": "theKthFactorOfN",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "transposeOfMatrix",
+        "request": "launch",
+        "mainClass": "transposeOfMatrix",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "twoSum",
+        "request": "launch",
+        "mainClass": "twoSum",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      },
+      {
+        "type": "java",
+        "name": "validPalindrome",
+        "request": "launch",
+        "mainClass": "validPalindrome",
+        "projectName": "40 day data Structure Challenge_8a108abc"
+      }
     ]
 }
